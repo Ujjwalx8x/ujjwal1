@@ -1,2 +1,3 @@
 # ujjwal1
-my 1st repository
+my first git Repository
+Author:- Ujjwal
